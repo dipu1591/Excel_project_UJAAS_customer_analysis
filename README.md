@@ -4,103 +4,103 @@
 
 ## Screenshots
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)
+![1st dataset personal data](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/2.PNG)
+![2nd dataset bike purchase decision](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/2.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/3.PNG)
+![Dataset after merging](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/3.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/4.PNG)
+![Dataset after cleaning and merging](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/4.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/5.PNG)
+![1st dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/5.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/6.PNG)
+![2nd dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/6.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/7.PNG)
+![3rd dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/7.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/8.PNG)
+![4th dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/8.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/9.PNG)
+![5th dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/9.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/10.PNG)
+![6th dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/10.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/11.PNG)
+![Final dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/11.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/12.PNG)
+![1st insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/12.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/13.PNG)
+![2nd insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/13.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/14.PNG)
+![3rd insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/14.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/15.PNG)
+![4th insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/15.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/16.PNG)
+![5th insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/16.PNG)
 
 <br/>
 
 <br/>
 
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/17.PNG)
+![6th insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/17.PNG)
 
 <br/>
 
