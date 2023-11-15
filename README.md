@@ -12,17 +12,7 @@
 
 ![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/2.PNG)
 
-<br/>
 
-<br/>
-
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/3.PNG)
-
-<br/>
-
-<br/>
-
-![S](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/4.PNG)
 
 <br/>
 
