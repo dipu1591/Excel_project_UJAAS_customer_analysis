@@ -1,6 +1,6 @@
 # Excel_project_UJAAS_customer_analysis
 
-
+Microsoft Excel is a powerful tool for data analysis, and data analysts can leverage its features to streamline their work and gain valuable insights.
 
 ## Screenshots
 
