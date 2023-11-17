@@ -105,5 +105,12 @@ Microsoft Excel is a powerful tool for data analysis, and data analysts can leve
 <br/>
 
 
+## Acknowledgements
+
+I would like to acknowledge both [ALEX THE ANALYST](https://www.youtube.com/@AlexTheAnalyst/) and [CHANDOO](https://www.youtube.com/@chandoo/) for providing a comprehensive tutorial on Microsoft Excel, which helped me in completing this project. Their step-by-step guidance was invaluable in understanding the concepts and techniques used in this project.
+
+<br/>
+
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipu1591/)
