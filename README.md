@@ -44,6 +44,8 @@ Moreover, since not all stakeholders have a technical background, the manager wa
 
 <br/>
 
+<br/>
+
 # Solution
 
 <br/>
@@ -100,6 +102,8 @@ Then, for ease of understanding, the values of the marital status and gender col
 
 <br/>
 
+<br/>
+
 # Presentation Slide
 
 <br/>
@@ -130,6 +134,9 @@ Then, for ease of understanding, the values of the marital status and gender col
 
 <br/>
 
+<br/>
+
+<br/>
 
 ## Acknowledgements
 
@@ -137,6 +144,9 @@ I would like to acknowledge [ALEX THE ANALYST](https://www.youtube.com/@AlexTheA
 
 <br/>
 
+<br/>
+
+<br/>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipu1591/)
