@@ -46,9 +46,11 @@ Moreover, since not all stakeholders have a technical background, the manager wa
 
 # Solution
 
-To merge both the two datasets, I took the help of 'Power Query Editor'. I clicked on 'Merge Queries as New' from the 'Merge Queries' option and merged two datasets based on the ID column.
+<br/>
 
 <br/>
+
+To merge both the two datasets, I took the help of 'Power Query Editor'. I clicked on 'Merge Queries as New' from the 'Merge Queries' option and merged two datasets based on the ID column.
 
 <br/>
 
@@ -56,11 +58,7 @@ To merge both the two datasets, I took the help of 'Power Query Editor'. I click
 
 <br/>
 
-<br/>
-
 Then, for ease of understanding, the values of the marital status and gender columns have been renamed through 'Replace Values'. Then I divided the total income range of all visitors into 10 income categories, where Scale J means income between 0 and 20000 taka, and thus specified Scale I to A for every 20000 taka. As with income range, I divided visitor age and average daily commuted distance into multiple categories.
-
-<br/>
 
 <br/>
 
@@ -69,8 +67,6 @@ Then, for ease of understanding, the values of the marital status and gender col
 <br/>
 
 <br/>
-
-
 
 'Pivot Table' and 'Chart' have been added to separate sheets for each answer. 'Conditional Formatting' has also been added for ease of understanding in pivot tables. All charts are added to a single sheet for CEO viewing, along with multiple 'slicers'. Slicer basically works as a filter. By clicking on one or more options, the value can be seen on all the charts at once. Moreover, 'Hyperlink Navigation' has been added to all sheets for ease of use.
 
