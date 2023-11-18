@@ -2,7 +2,6 @@
 
 Microsoft Excel is a powerful tool for data analysis, and data analysts can leverage its features to streamline their work and gain valuable insights.
 
-## Screenshots
 
 We basically had two datasets, where in the first dataset, UJAAS collected the personal information of the potential customer, and in the second dataset, there was information about whether the potential customer purchased a bike or not.
 
@@ -41,6 +40,29 @@ Then, for ease of understanding, the values of the marital status and gender col
 <br/>
 
 ![Dataset after cleaning and merging](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/4.PNG)
+
+<br/>
+
+<br/>
+
+The CEO of UJAAS had a total of six questions, based on which the stakeholders will decide in the board meeting how to further increase the market share. The questions are:
+
+1) What is the minimum income, average income, and maximum income of male and female potential customers?
+
+2) In which salary range did customers buy more bikes?
+
+3) How far did the customers who bought the bike typically travel each day?
+
+4) Which age group of customers is more dependent on bikes?
+
+5) Show the percentage of customers who have or have not purchased a bike by gender and marital status.
+
+6) For those who are buying bikes, how many cars have they bought before?
+
+
+
+'Pivot Table' and 'Chart' have been added to separate sheets for each answer. 'Conditional Formatting' has also been added for ease of understanding in pivot tables. All charts are added to a single sheet for CEO viewing, along with multiple 'slicers'. Slicer basically works as a filter. By clicking on one or more options, the value can be seen on all the charts at once. Moreover, 'Hyperlink Navigation' has been added to all sheets for ease of use.
+
 
 <br/>
 
