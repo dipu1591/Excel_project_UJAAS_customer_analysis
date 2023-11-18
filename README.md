@@ -14,7 +14,19 @@ Microsoft Excel is a powerful tool for data analysis, and data analysts can leve
 
 <br/>
 
-UJAAS is an international brand who manufactures and sells bike in Bangladesh. They basically maintain two datasets, where in the first dataset, they collect the personal information of the potential customer, and in the second dataset, there is information about whether the potential customer purchased a bike or not. UJAAS wants to increase their market share in Bangladesh by making informed decisions using this data. Specifically, the CEO of UJAAS had a total of six questions, based on which the stakeholders will decide in the board meeting how to further increase the market share. The questions are:
+UJAAS is an international brand that manufactures and sells bikes in Bangladesh. They basically maintain two datasets, where in the first dataset, they collect the personal information of the potential customer, and in the second dataset, there is information about whether the potential customer purchased a bike or not.
+
+<br/>
+
+![1st dataset personal data](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)
+
+<br/>
+
+![2nd dataset bike purchase decision](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/2.PNG)
+
+<br/>
+
+UJAAS wants to increase their market share in Bangladesh by making informed decisions using this data. Specifically, the CEO of UJAAS had a total of six questions, based on which the stakeholders will decide in the board meeting how to further increase the market share. The questions are:
 
 1) What is the minimum income, average income, and maximum income of male and female potential customers?
 
@@ -28,17 +40,7 @@ UJAAS is an international brand who manufactures and sells bike in Bangladesh. T
 
 6) For those who are buying bikes, how many cars have they bought before?
 
-<br/>
-
-<br/>
-
-![1st dataset personal data](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)
-
-<br/>
-
-<br/>
-
-![2nd dataset bike purchase decision](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/2.PNG)
+Moreover, since not all stakeholders have a technical background, the manager wants a presentation prepared using simplified Excel charts to facilitate their understanding at the board meeting.
 
 <br/>
 
