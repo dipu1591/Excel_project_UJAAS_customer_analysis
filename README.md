@@ -2,8 +2,22 @@
 
 Microsoft Excel is a powerful tool for data analysis, and data analysts can leverage its features to streamline their work and gain valuable insights.
 
+<br/>
+
+<br/>
+
+# Problem
+
+
+
+<br/>
+
+<br/>
+
+# Solution
 
 We basically had two datasets, where in the first dataset, UJAAS collected the personal information of the potential customer, and in the second dataset, there was information about whether the potential customer purchased a bike or not.
+
 
 <br/>
 
