@@ -151,7 +151,7 @@ As all the stakeholders have no technical background, a presentation was made us
 
 ## Acknowledgements
 
-I would like to acknowledge both [ALEX THE ANALYST](https://www.youtube.com/@AlexTheAnalyst/), [CHANDOO](https://www.youtube.com/@chandoo_/), and [STORYTELLING WITH DATA](https://www.youtube.com/@storytellingwithdata/) for providing a comprehensive tutorial on Microsoft Excel, which helped me in completing this project. Their step-by-step guidance was invaluable in understanding the concepts and techniques used in this project.
+I would like to acknowledge [ALEX THE ANALYST](https://www.youtube.com/@AlexTheAnalyst/), [CHANDOO](https://www.youtube.com/@chandoo_/), and [STORYTELLING WITH DATA](https://www.youtube.com/@storytellingwithdata/) for providing a comprehensive tutorial on Microsoft Excel, which helped me in completing this project. Their step-by-step guidance was invaluable in understanding the concepts and techniques used in this project.
 
 <br/>
 
