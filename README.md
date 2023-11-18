@@ -4,6 +4,12 @@ Microsoft Excel is a powerful tool for data analysis, and data analysts can leve
 
 ## Screenshots
 
+We basically had two datasets, where in the first dataset, UJAAS collected the personal information of the potential customer, and in the second dataset, there was information about whether the potential customer purchased a bike or not.
+
+<br/>
+
+<br/>
+
 ![1st dataset personal data](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)
 
 <br/>
@@ -16,7 +22,19 @@ Microsoft Excel is a powerful tool for data analysis, and data analysts can leve
 
 <br/>
 
+I took the help of 'Power Query Editor' to merge the two datasets. I clicked on 'Merge Queries as New' from the 'Merge Queries' option and merged two datasets based on the ID column.
+
+<br/>
+
+<br/>
+
 ![Dataset after merging](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/3.PNG)
+
+<br/>
+
+<br/>
+
+Then, for ease of understanding, the values of the marital status and gender columns have been renamed through 'Replace Values'. Then I divided the total income range of all visitors into 10 income categories, where Scale J means income between 0 and 20000 taka, and thus specified Scale I to A for every 20000 taka. As with income range, I divided visitor age and average daily commuted distance into multiple categories.
 
 <br/>
 
