@@ -6,7 +6,7 @@
 
 <br/>
 
-# Problem
+## Problem
 
 <br/>
 
@@ -46,7 +46,7 @@ Moreover, since not all stakeholders have a technical background, the manager wa
 
 <br/>
 
-# Solution
+## Solution
 
 <br/>
 
@@ -104,7 +104,7 @@ Then, for ease of understanding, the values of the marital status and gender col
 
 <br/>
 
-# Presentation Slide
+## Presentation Slide
 
 <br/>
 
