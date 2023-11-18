@@ -1,4 +1,4 @@
-# Interactive Dashboard Using Microsoft Excel to Analyze Data and Identify Potential Customers: A Case Study of UJAAS
+# Interactive Dashboard Using Microsoft Excel to Analyze Data: A Case Study of UJAAS
 
 <br/>
 
