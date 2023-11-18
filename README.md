@@ -8,8 +8,6 @@ Microsoft Excel is a powerful tool for data analysis, and data analysts can leve
 
 # Problem
 
-
-
 <br/>
 
 <br/>
@@ -25,11 +23,6 @@ UJAAS is an international brand that manufactures and sells bikes in Bangladesh.
 ![2nd dataset bike purchase decision](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/2.PNG)
 
 <br/>
-
-
-  <img src="(https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)" width="400" />
-  <img src="(https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)" width="400" />
-
 
 UJAAS wants to increase their market share in Bangladesh by making informed decisions using this data. Specifically, the CEO of UJAAS had a total of six questions, based on which the stakeholders will decide in the board meeting how to further increase the market share. The questions are:
 
