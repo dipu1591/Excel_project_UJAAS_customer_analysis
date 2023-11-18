@@ -14,10 +14,7 @@ Microsoft Excel is a powerful tool for data analysis, and data analysts can leve
 
 <br/>
 
-# Solution
-
 We basically had two datasets, where in the first dataset, UJAAS collected the personal information of the potential customer, and in the second dataset, there was information about whether the potential customer purchased a bike or not.
-
 
 <br/>
 
@@ -35,7 +32,9 @@ We basically had two datasets, where in the first dataset, UJAAS collected the p
 
 <br/>
 
-I took the help of 'Power Query Editor' to merge the two datasets. I clicked on 'Merge Queries as New' from the 'Merge Queries' option and merged two datasets based on the ID column.
+# Solution
+
+To merge both the two datasets, I took the help of 'Power Query Editor'. I clicked on 'Merge Queries as New' from the 'Merge Queries' option and merged two datasets based on the ID column.
 
 <br/>
 
