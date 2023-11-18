@@ -26,7 +26,7 @@ UJAAS is an international brand that manufactures and sells bikes in Bangladesh.
 
 <br/>
 
-<p align="center">
+
   <img src="(https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)" width="400" />
   <img src="(https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/1.PNG)" width="400" />
 </p>
