@@ -1,4 +1,4 @@
-# Excel_project_UJAAS_customer_analysis
+# Interactive Dashboard Using Microsoft Excel to Analyze Customer Pattern: A Case Study of UJAAS
 
 Microsoft Excel is a powerful tool for data analysis, and data analysts can leverage its features to streamline their work and gain valuable insights.
 
