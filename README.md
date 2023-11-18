@@ -98,6 +98,8 @@ Then, for ease of understanding, the values of the marital status and gender col
 
 <br/>
 
+<br/>
+
 As all the stakeholders have no technical background, a presentation was made using simplified Excel charts to facilitate their understanding in the board meeting.
 
 <br/>
