@@ -1,4 +1,4 @@
-# Interactive Dashboard Using Microsoft Excel to Identify Potential Clients: A Case Study of UJAAS
+# Interactive Dashboard Using Microsoft Excel to Analyze Data and Identify Potential Customers: A Case Study of UJAAS
 
 Microsoft Excel is a powerful tool for data analysis, and data analysts can leverage its features to streamline their work and gain valuable insights.
 
