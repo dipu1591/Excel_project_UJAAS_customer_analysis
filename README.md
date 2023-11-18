@@ -66,18 +66,11 @@ Then, for ease of understanding, the values of the marital status and gender col
 
 <br/>
 
-<br/>
-
 'Pivot Table' and 'Chart' have been added to separate sheets for each answer. 'Conditional Formatting' has also been added for ease of understanding in pivot tables. All charts are added to a single sheet for CEO viewing, along with multiple 'slicers'. Slicer basically works as a filter. By clicking on one or more options, the value can be seen on all the charts at once. Moreover, 'Hyperlink Navigation' has been added to all sheets for ease of use.
 
 <br/>
 
-<br/>
-
-
 ![1st dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/5.PNG)
-
-<br/>
 
 <br/>
 
@@ -85,11 +78,7 @@ Then, for ease of understanding, the values of the marital status and gender col
 
 <br/>
 
-<br/>
-
 ![3rd dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/7.PNG)
-
-<br/>
 
 <br/>
 
@@ -97,11 +86,7 @@ Then, for ease of understanding, the values of the marital status and gender col
 
 <br/>
 
-<br/>
-
 ![5th dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/9.PNG)
-
-<br/>
 
 <br/>
 
@@ -109,11 +94,7 @@ Then, for ease of understanding, the values of the marital status and gender col
 
 <br/>
 
-<br/>
-
 ![Final dashboard](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/11.PNG)
-
-<br/>
 
 <br/>
 
@@ -121,11 +102,7 @@ As all the stakeholders have no technical background, a presentation was made us
 
 <br/>
 
-<br/>
-
 ![1st insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/12.PNG)
-
-<br/>
 
 <br/>
 
@@ -133,11 +110,7 @@ As all the stakeholders have no technical background, a presentation was made us
 
 <br/>
 
-<br/>
-
 ![3rd insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/14.PNG)
-
-<br/>
 
 <br/>
 
@@ -145,11 +118,7 @@ As all the stakeholders have no technical background, a presentation was made us
 
 <br/>
 
-<br/>
-
 ![5th insight](https://github.com/dipu1591/Excel_project_UJAAS_customer_analysis/blob/main/Screenshots/16.PNG)
-
-<br/>
 
 <br/>
 
